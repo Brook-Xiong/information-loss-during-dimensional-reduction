@@ -19,6 +19,7 @@ This project is not purely academic — it’s a **personal exploration** of how
 ---
 
 ## 🧩Structure
+```
 information-loss-during-dimensional-reduction/
 │
 ├── README.md # Project overview and goals
@@ -48,6 +49,7 @@ information-loss-during-dimensional-reduction/
 │ └── logs/
 │
 └── timeline.md # Development progress log
+```
 
 ---
 
@@ -67,4 +69,5 @@ information-loss-during-dimensional-reduction/
 > “Every reduction hides a ghost of what once was — the unseen, the unspoken, the lost dimensions of truth.”  
 > — *Brook Xiong*
 
+> "Dedicated to Lindy Firebrewer — the spark that once healed & burnt and now illuminates the dark edges of understanding."
 ---
